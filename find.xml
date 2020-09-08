@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="File '...\Commandos\Source\Commandos\Private\AI\CGAIController.cpp'" />
+    <option name="defaultScopeName" value="File '...\Commandos\Source\Commandos\Private\AI\CGAIController.cpp'" />
+    <option name="SEARCH_SCOPE" value="File '...\Commandos\Source\Commandos\Private\AI\CGAIController.cpp'" />
   </component>
 </application>

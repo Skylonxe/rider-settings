@@ -23,10 +23,11 @@
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
   </action>
-  <action id="OpenExceptionSettings" />
-  <action id="PerforceDirect.Edit" />
-  <action id="ShowFilterPopup" />
   <action id="Macro.Reformat and Save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="OpenExceptionSettings" />
+  <action id="PerforceDirect.Edit" />
+  <action id="SaveDocument" />
+  <action id="ShowFilterPopup" />
 </keymap>
