@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '...\Commandos\Source\Commandos\Private\AI\CGAIController.cpp'" />
     <option name="defaultScopeName" value="File '...\Commandos\Source\Commandos\Private\AI\CGAIController.cpp'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '...\Commandos\Source\Commandos\Private\AI\CGAIController.cpp'" />
   </component>
 </application>
