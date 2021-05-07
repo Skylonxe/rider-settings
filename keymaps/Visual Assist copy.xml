@@ -1,0 +1,33 @@
+<keymap version="1" name="Visual Assist copy" parent="Visual Assist">
+  <action id="ActivateStructureToolWindow" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Console.History.Browse" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="Macro.Reformat and Save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="OpenExceptionSettings" />
+  <action id="PerforceDirect.Edit" />
+  <action id="SaveDocument" />
+  <action id="ShowFilterPopup" />
+</keymap>
