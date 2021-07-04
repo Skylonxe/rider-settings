@@ -1,0 +1,15 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="premium" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="indicatorStyle" value="None" />
+    <option name="settingsSelectedTab" value="2" />
+    <option name="tabsHeight" value="16" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="1a21306c:17a721265c3:-8000" />
+    <option name="version" value="6.7.0" />
+    <option name="showWhatsNew" value="false" />
+  </component>
+</application>
