@@ -4,6 +4,7 @@
       <CustomAssociations>
         <option name="customAssociations">
           <RegexAssociation>
+            <option name="enabled" value="false" />
             <option name="matcher" value="^Private$" />
             <option name="pattern" value="^Private$" />
             <option name="name" value="Private" />
