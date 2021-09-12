@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Only changes uncommitted to VCS in file …\Plugins\Systems\SacInventory\Source\SacInventory\Public\SacItemStack.h" />
+    <option name="defaultScopeName" value="Only changes uncommitted to VCS in file …\Plugins\Systems\SacInventory\Source\SacInventory\Public\SacItemStack.h" />
+    <option name="SEARCH_SCOPE" value="Only changes uncommitted to VCS in file …\Plugins\Systems\SacInventory\Source\SacInventory\Public\SacItemStack.h" />
   </component>
 </application>
