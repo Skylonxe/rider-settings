@@ -4,5 +4,12 @@
       <option name="valueLookupDelay" value="150" />
     </data-views>
     <general />
+    <debuggers>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <nt-symbol-settings />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>
