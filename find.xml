@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'SpecialOps'" />
+    <option name="defaultScopeName" value="Project 'SpecialOps'" />
+    <option name="SEARCH_SCOPE" value="Project 'SpecialOps'" />
+    <option name="FILE_MASK" value="*.h" />
+    <mask>*.h</mask>
   </component>
 </application>
